@@ -14,7 +14,8 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",
-                "badge": ""
+                "badge": "",
+                "colors": "color-c"
             }
         },
         {

@@ -5,6 +5,7 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "About",
+            }
         },
         {
             "label": "FAQ",

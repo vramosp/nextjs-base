@@ -9,7 +9,7 @@
             }
         },
         {
-            "label": "My Hero Section 2",
+            "label": "Image left",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",

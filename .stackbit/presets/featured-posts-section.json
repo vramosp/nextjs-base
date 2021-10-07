@@ -8,7 +8,7 @@
             }
         },
         {
-            "label": "Image left",
+            "label": "2 columns",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",

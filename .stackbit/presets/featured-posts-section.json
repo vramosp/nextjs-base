@@ -11,21 +11,21 @@
             }
         },
         {
-            "label": "3 columns dark",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "variant": "variant-c",
-                "badge": "",
-                "colors": "colors-c"
-            }
-        },
-        {
             "label": "2 columns light",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",
                 "badge": "",
                 "colors": "colors-a"
+            }
+        },
+        {
+            "label": "3 columns dark",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "variant": "variant-c",
+                "badge": "",
+                "colors": "colors-c"
             }
         },
         {

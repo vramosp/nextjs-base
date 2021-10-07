@@ -22,9 +22,10 @@
             "label": "With label",
             "thumbnail": "images/cta-beta.jpg",
             "data": {
+                "badge": "Beta"
                 "variant": "variant-b",
                 "colors": "colors-c",
-                "badge": "Beta"
+                
             }
         }
     ]

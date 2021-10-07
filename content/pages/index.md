@@ -275,7 +275,9 @@ sections:
     bottomGap: none
     topGap: none
     contentAlignHoriz: center
-    badge: {}
+    badge:
+      elementId: ''
+      label: lorem-ipsum
     testimonials:
       - quote: >-
           “It’s great to see someone taking action while still maintaining a

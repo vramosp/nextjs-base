@@ -23,7 +23,8 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-c",
-                "badge": ""
+                "badge": "",
+                "colors": "color-c"
             }
         },
         {

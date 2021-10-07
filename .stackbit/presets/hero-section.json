@@ -4,28 +4,28 @@
             "label": "Image right",
             "thumbnail": "images/hero-right.jpg",
             "data": {
-                "variant": "variant-a",
+                "variant": "variant-a"
             }
         },
         {
             "label": "Image left",
             "thumbnail": "images/hero-left.jpg",
             "data": {
-                "variant": "variant-b",
+                "variant": "variant-b"
             }
         },
         {
             "label": "Image top",
             "thumbnail": "images/hero-top.jpg",
             "data": {
-                "variant": "variant-c",
+                "variant": "variant-c"
             }
         },
         {
             "label": "Image bottom",
             "thumbnail": "images/hero-bottom.jpg",
             "data": {
-                "variant": "variant-d",
+                "variant": "variant-d"
             }
         }
     ]

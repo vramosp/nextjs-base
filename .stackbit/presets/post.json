@@ -9,7 +9,7 @@
             }
         },
         {
-            "label": "Post with",
+            "label": "Post with ",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",

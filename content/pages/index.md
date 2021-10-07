@@ -161,6 +161,9 @@ sections:
       opacity: 100
       type: ImageBlock
     type: CtaSection
+    badge:
+      elementId: ''
+      label: lorem-ipsum
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c

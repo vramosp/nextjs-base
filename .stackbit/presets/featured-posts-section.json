@@ -23,9 +23,9 @@
             "label": "2 columns light",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "variant": "variant-a",
+                "variant": "variant-c",
                 "badge": "",
-                "colors": "colors-a"
+                "colors": "colors-c"
             }
         },
     ]

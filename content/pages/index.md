@@ -131,7 +131,7 @@ sections:
     contentWidth: large
     contentAlignHoriz: left
     contentAlignVert: middle
-    textAlign: left
+    textAlign: center
     variant: variant-b
     badge:
       elementId: ''

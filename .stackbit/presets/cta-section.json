@@ -23,7 +23,7 @@
             "thumbnail": "images/cta-beta.jpg",
             "data": {
                 "variant": "variant-b",
-                "colors": "colors-d",
+                "colors": "colors-c",
                 "badge": "Beta"
             }
         }

@@ -1,7 +1,7 @@
 {
     "model": "PostLayout",
     "presets": [{
-            "label": "My Hero Section 1",
+            "label": "",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",

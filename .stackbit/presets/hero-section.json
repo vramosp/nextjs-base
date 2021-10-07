@@ -28,7 +28,8 @@
             "label": "Image bottom",
             "thumbnail": "images/hero-bottom.jpg",
             "data": {
-                "variant": "variant-d"
+                "variant": "variant-d",
+                "badge": ""
             }
         }
     ]

@@ -51,7 +51,7 @@ sections:
     width: wide
     height: tall
     topGap: none
-    bottomGap: medium
+    bottomGap: none
     contentWidth: large
     contentAlignHoriz: left
     contentAlignVert: middle

@@ -130,7 +130,7 @@ sections:
     textAlign: left
     variant: variant-b
     badge: {}
-    title: Latest news
+    title: This one
     subtitle: Featured blog posts section example
     actions:
       - type: Button

@@ -2,6 +2,41 @@
 title: Home
 layout: PageLayout
 sections:
+  - type: HeroSection
+    elementId: homepage-hero-1
+    variant: variant-a
+    colors: colors-f
+    width: wide
+    height: tall
+    bottomGap: none
+    topGap: none
+    contentWidth: large
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    textAlign: left
+    badge:
+      label: New Website
+    title: This Is A Big Hero **Headline**
+    text: >-
+      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
+      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
+      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
+      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    actions:
+      - type: Button
+        label: Get Started
+        url: 'https://www.stackbit.com/'
+        style: primary
+        elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: 'https://www.stackbit.com/'
+        style: secondary
+    feature:
+      type: ImageBlock
+      url: /images/hero.png
+      altText: Image alt text
+      caption: Image caption
   - elementId: ''
     colors: colors-f
     width: wide
@@ -44,41 +79,6 @@ sections:
       opacity: 100
       type: ImageBlock
     type: HeroSection
-  - type: HeroSection
-    elementId: homepage-hero-1
-    variant: variant-a
-    colors: colors-f
-    width: wide
-    height: tall
-    bottomGap: none
-    topGap: none
-    contentWidth: large
-    contentAlignHoriz: center
-    contentAlignVert: middle
-    textAlign: left
-    badge:
-      label: New Website
-    title: This Is A Big Hero **Headline**
-    text: >-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions:
-      - type: Button
-        label: Get Started
-        url: 'https://www.stackbit.com/'
-        style: primary
-        elementId: hero-main-button
-      - type: Button
-        label: Learn More
-        url: 'https://www.stackbit.com/'
-        style: secondary
-    feature:
-      type: ImageBlock
-      url: /images/hero.png
-      altText: Image alt text
-      caption: Image caption
   - type: FeaturedPostsSection
     variant: variant-b
     colors: colors-c

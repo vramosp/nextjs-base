@@ -8,7 +8,7 @@
             }
         },
         {
-            "label": "Post with related posts",
+            "label": "",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "This is a post title (related)"

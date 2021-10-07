@@ -5,7 +5,7 @@
             "thumbnail": "images/cta-bottom.jpg",
             "data": {
                 "variant": "variant-a",
-                "colors": "colors-f",
+                "colors": "colors-c",
                 "badge": ""
             }
         },
@@ -14,7 +14,7 @@
             "thumbnail": "images/cta-right.jpg",
             "data": {
                 "variant": "variant-b",
-                "colors": "colors-f",
+                "colors": "colors-c",
                 "badge": ""
             }
         },
@@ -23,7 +23,7 @@
             "thumbnail": "images/cta-beta.jpg",
             "data": {
                 "variant": "variant-b",
-                "colors": "colors-f",
+                "colors": "colors-c",
                 "badge": "Beta"
             }
         }

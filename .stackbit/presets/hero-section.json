@@ -23,7 +23,7 @@
         },
         {
             "label": "Image bottom",
-            "thumbnail": "images/hero-right.jpg",
+            "thumbnail": "images/hero-bottom.jpg",
             "data": {
                 "variant": "variant-d",
             }

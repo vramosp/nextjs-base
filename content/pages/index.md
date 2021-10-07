@@ -145,11 +145,6 @@ sections:
     contentAlignVert: middle
     textAlign: left
     variant: variant-b
-    badge:
-      '0': B
-      '1': e
-      '2': t
-      '3': a
     title: Let's do this
     text: >-
       The Stackbit theme is flexible and scalable to every need. It can manage

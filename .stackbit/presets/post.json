@@ -13,7 +13,7 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "This is a post title 2",
-                "excerpt": "This is the excerpt of your blog post visible in the post feed or featured posts."
+                "excerpt": "This is the excerpt of your blog post visible in the post feed or featured posts.",
             }
         }
     ]

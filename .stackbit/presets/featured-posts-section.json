@@ -29,7 +29,7 @@
             }
         },
         {
-            "label": "3 columns dark",
+            "label": "2 columns dark",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",

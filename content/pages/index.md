@@ -78,6 +78,38 @@ sections:
     colors: colors-c
     width: wide
     height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    textAlign: left
+    variant: variant-b
+    badge:
+      '0': B
+      '1': e
+      '2': t
+      '3': a
+    title: Let's do this
+    text: >-
+      The Stackbit theme is flexible and scalable to every need. It can manage
+      any layout and any screen.
+    actions:
+      - type: Button
+        label: Try it now
+        url: /about
+        style: primary
+    backgroundImage:
+      elementId: ''
+      altText: lorem-ipsum
+      caption: lorem-ipsum
+      opacity: 100
+      type: ImageBlock
+    type: CtaSection
+  - elementId: ''
+    colors: colors-c
+    width: wide
+    height: tall
     topGap: none
     bottomGap: none
     contentWidth: large

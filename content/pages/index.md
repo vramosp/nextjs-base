@@ -119,7 +119,7 @@ sections:
       - content/pages/blog/post-one.md
     type: FeaturedPostsSection
   - elementId: ''
-    colors: colors-b
+    colors: colors-c
     width: wide
     height: tall
     topGap: medium

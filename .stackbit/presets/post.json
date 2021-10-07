@@ -5,9 +5,9 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "About",
-                "sections":{
-                    
-                }
+                "sections":{[
+
+                ]}
             }
         },
         {

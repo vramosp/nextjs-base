@@ -24,7 +24,7 @@
             "data": {
                 "variant": "variant-c",
                 "badge": "",
-                "colors": "color-b"
+                "colors": "colors-c"
             }
         },
         {
@@ -33,7 +33,7 @@
             "data": {
                 "variant": "variant-d",
                 "badge": "",
-                "colors": "color-b"
+                "colors": "colors-c"
             }
         }
     ]

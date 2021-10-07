@@ -16,7 +16,8 @@
             "data": {
                 "variant": "variant-a",
                 "badge": "",
-                "colors": "colors-a"
+                "colors": "colors-a",
+                "textAlign": "center"
             }
         },
         {

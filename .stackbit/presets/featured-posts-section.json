@@ -26,7 +26,8 @@
             "data": {
                 "variant": "variant-b",
                 "badge": "",
-                "colors": "colors-c"
+                "colors": "colors-c",
+                "textAlign": "center"
             }
         },
         {

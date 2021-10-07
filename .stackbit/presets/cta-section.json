@@ -11,7 +11,7 @@
         },
         {
             "label": "Button right",
-            "thumbnail": "images/hero-left.jpg",
+            "thumbnail": "images/cta-right.jpg",
             "data": {
                 "variant": "variant-b",
                 "colors": "colors-f",

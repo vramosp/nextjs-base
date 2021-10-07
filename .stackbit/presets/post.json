@@ -1,7 +1,7 @@
 {
     "model": "PageLayout",
     "presets": [{
-            "label": "About",
+            "label": "Template 1",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "title": "Blog post 1",

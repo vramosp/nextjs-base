@@ -132,7 +132,7 @@ sections:
     contentAlignHoriz: left
     contentAlignVert: middle
     textAlign: left
-    variant: variant-a
+    variant: variant-b
     badge:
       elementId: ''
       label: lorem-ipsum

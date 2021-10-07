@@ -1,7 +1,7 @@
 {
     "model": "PostLayout",
     "presets": [{
-            "label": "Post 1",
+            "label": "Post preset 1",
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a",

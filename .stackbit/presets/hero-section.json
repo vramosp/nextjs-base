@@ -26,12 +26,6 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-d",
-                "title": "Another Title!",
-                "text": "Hello",
-                "actions": [{
-                    "label": "hey",
-                    "url": "https://www.stackbit.com"
-                }]
             }
         }
     ]

@@ -5,6 +5,7 @@
             "thumbnail": "images/hero-right.jpg",
             "data": {
                 "variant": "variant-a",
+                "badge": ""
             }
         },
         {

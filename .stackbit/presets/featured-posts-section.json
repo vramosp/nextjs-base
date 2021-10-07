@@ -1,5 +1,5 @@
 {
-    "model": "HeroSection",
+    "model": "FeaturedPostsSection",
     "presets": [{
             "label": "Image right",
             "thumbnail": "images/hero-right.jpg",

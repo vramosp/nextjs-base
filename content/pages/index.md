@@ -104,6 +104,34 @@ sections:
       - content/pages/blog/post-two.md
       - content/pages/blog/post-three.md
       - content/pages/blog/post-one.md
+  - elementId: ''
+    colors: colors-h
+    width: wide
+    height: short
+    contentWidth: large
+    contentAlignHoriz: center
+    contentAlignVert: middle
+    topGap: none
+    bottomGap: none
+    textAlign: left
+    variant: variant-b
+    badge:
+      elementId: ''
+      label: lorem-ipsum
+    title: lorem-ipsum
+    subtitle: lorem-ipsum
+    testimonials:
+      - type: Testimonial
+        quote: >-
+          “It’s great to see someone taking action while still maintaining a
+          sustainable fish supply to home cooks.”
+        name: Johnna Doe
+        title: Product Marketing Manager at Acme
+        image:
+          type: ImageBlock
+          url: /images/dianne-ameter.jpg
+          altText: Product Marketing Manager
+    type: TestimonialsSection
   - type: TestimonialsSection
     variant: variant-b
     colors: colors-h

@@ -19,6 +19,14 @@
                 "colors": "colors-a"
             }
         },
-        
+        {
+            "label": "2 columns light",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "variant": "variant-a",
+                "badge": "",
+                "colors": "colors-a"
+            }
+        },
     ]
 }

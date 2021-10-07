@@ -28,8 +28,6 @@ fields:
       contentAlignHoriz: center
       contentAlignVert: middle
       textAlign: left
-      badge:
-          label: New Website
       title: This Is A Big Hero **Headline**
       text: >-
         Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
@@ -39,12 +37,12 @@ fields:
       actions:
         - type: Button
           label: Get Started
-          url: 'https://www.stackbit.com/'
+          url: '/'
           style: primary
           elementId: hero-main-button
         - type: Button
           label: Learn More
-          url: 'https://www.stackbit.com/'
+          url: '/'
           style: secondary
         - elementId: ''
           label: Learn more
@@ -59,15 +57,3 @@ fields:
         type: ImageBlock
         url: /images/hero.png
         altText: Image alt text
-        caption: Image caption
-    - elementId: ''
-      colors: colors-f
-      width: wide
-      height: tall
-      contentWidth: large
-      contentAlignHoriz: center
-      contentAlignVert: middle
-      topGap: none
-      bottomGap: none
-      TextAlign: left
-      variant: variant-a

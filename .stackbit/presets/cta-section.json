@@ -20,7 +20,7 @@
         },
         {
             "label": "With label",
-            "thumbnail": "images/cta-betta.jpg",
+            "thumbnail": "images/cta-beta.jpg",
             "data": {
                 "variant": "variant-b",
                 "colors": "colors-f",

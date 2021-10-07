@@ -367,6 +367,7 @@ sections:
     bottomGap: none
     topGap: none
     contentAlignHoriz: center
+    badge: 
     testimonials:
       - quote: >-
           “It’s great to see someone taking action while still maintaining a

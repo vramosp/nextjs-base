@@ -12,10 +12,6 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-b",
-                "actions": [{
-                    "label": "Stackbit",
-                    "url": "https://www.stackbit.com"
-                }]
             }
         },
         {

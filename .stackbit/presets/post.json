@@ -20,19 +20,6 @@
                     "url": "https://www.stackbit.com"
                 }]
             }
-        },
-        {
-            "label": "My Hero Section 3..",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "variant": "variant-a",
-                "title": "Another Title!",
-                "text": "Hello",
-                "actions": [{
-                    "label": "hey",
-                    "url": "https://www.stackbit.com"
-                }]
-            }
         }
     ]
 }

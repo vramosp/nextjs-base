@@ -4,7 +4,6 @@
             "label": "Post",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "variant": "variant-a",
                 "title": "My Title!!!"
             }
         },
@@ -16,7 +15,6 @@
                 "title": "Another Title...",
                 "text": "Hello",
                 "actions": [{
-                    "label": "Stackbit",
                     "url": "https://www.stackbit.com"
                 }]
             }

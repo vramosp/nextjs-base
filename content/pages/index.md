@@ -28,6 +28,10 @@ sections:
         url: 'https://www.stackbit.com/'
         style: primary
         elementId: hero-main-button
+      - type: Button
+        label: Learn More
+        url: 'https://www.stackbit.com/'
+        style: secondary
       - elementId: ''
         label: Learn more
         altText: Learn more
@@ -37,10 +41,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - type: Button
-        label: Learn More
-        url: 'https://www.stackbit.com/'
-        style: secondary
     feature:
       type: ImageBlock
       url: /images/hero.png

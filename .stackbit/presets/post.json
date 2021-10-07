@@ -13,10 +13,7 @@
             "data": {
                 "variant": "variant-a",
                 "title": "Another Title...",
-                "text": "Hello",
-                "actions": [{
-                    "url": "https://www.stackbit.com"
-                }]
+                "text": "Hello"
             }
         }
     ]

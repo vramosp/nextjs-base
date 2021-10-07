@@ -20,7 +20,8 @@
             "label": "Image top",
             "thumbnail": "images/hero-top.jpg",
             "data": {
-                "variant": "variant-c"
+                "variant": "variant-c",
+                "badge": ""
             }
         },
         {

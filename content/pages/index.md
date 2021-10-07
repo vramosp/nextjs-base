@@ -287,7 +287,7 @@ sections:
     textAlign: left
     variant: variant-a
     badge: {}
-    title: Latest news
+    title: This is the title
     subtitle: Featured blog posts section example
     actions:
       - type: Button

@@ -11,7 +11,7 @@
             "label": "Post with related posts",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "title": "Another Title...",
+                "title": "This is a post title (related)",
                 "text": "Hello"
             }
         }

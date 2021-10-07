@@ -27,6 +27,15 @@
                 "badge": "",
                 "colors": "colors-c"
             }
+        },
+        {
+            "label": "3 columns dark",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "variant": "variant-b",
+                "badge": "",
+                "colors": "colors-c"
+            }
         }
     ]
 }

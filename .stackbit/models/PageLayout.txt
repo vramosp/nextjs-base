@@ -1,4 +1,5 @@
 name: PageLayout
+type: page
 label: Page
 layout: PageLayout
 hideContent: true

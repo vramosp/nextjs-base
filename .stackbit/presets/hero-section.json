@@ -35,10 +35,10 @@
             }
         },
         {
-            "label": "Image top",
+            "label": "Image bottom",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "variant": "variant-c",
+                "variant": "variant-d",
                 "title": "Another Title!",
                 "text": "Hello",
                 "actions": [{

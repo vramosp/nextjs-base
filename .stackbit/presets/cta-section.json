@@ -24,8 +24,7 @@
             "data": {
                 "badge": "Beta",
                 "variant": "variant-b",
-                "colors": "colors-c",
-                
+                "colors": "colors-c"
             }
         }
     ]

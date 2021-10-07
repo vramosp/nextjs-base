@@ -284,7 +284,7 @@ sections:
     contentWidth: large
     contentAlignHoriz: center
     contentAlignVert: middle
-    textAlign: left
+    textAlign: center
     variant: variant-a
     badge: {}
     title: This is the title

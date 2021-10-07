@@ -10,7 +10,7 @@
             }
         },
         {
-            "label": "Image left",
+            "label": "Button right",
             "thumbnail": "images/hero-left.jpg",
             "data": {
                 "variant": "variant-b",

@@ -56,7 +56,7 @@ sections:
     contentAlignHoriz: left
     contentAlignVert: middle
     textAlign: left
-    variant: variant-b
+    variant: variant-a
     badge: {}
     title: Let's do this
     text: >-

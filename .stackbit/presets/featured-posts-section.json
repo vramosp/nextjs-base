@@ -32,7 +32,7 @@
         },
         {
             "label": "3 columns dark",
-            "thumbnail": "images/featured-posts-3-light.jpg",
+            "thumbnail": "images/featured-posts-3-dark.jpg",
             "data": {
                 "variant": "variant-a",
                 "badge": "",

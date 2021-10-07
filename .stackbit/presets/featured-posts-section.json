@@ -32,7 +32,8 @@
             "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-d",
-                "badge": ""
+                "badge": "",
+                "colors": "color-b"
             }
         }
     ]

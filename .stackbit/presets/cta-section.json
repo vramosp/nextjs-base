@@ -5,8 +5,7 @@
             "thumbnail": "images/cta-bottom.jpg",
             "data": {
                 "variant": "variant-a",
-                "colors": "colors-c",
-                "badge": ""
+                "colors": "colors-c"
             }
         },
         {

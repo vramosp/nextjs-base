@@ -14,6 +14,7 @@
             "thumbnail": "images/hero-left.jpg",
             "data": {
                 "variant": "variant-b",
+                "colors": "colors-f",
                 "badge": ""
             }
         },
@@ -22,12 +23,14 @@
             "thumbnail": "images/hero-top.jpg",
             "data": {
                 "variant": "variant-c",
+                "colors": "colors-f",
                 "badge": ""
             }
         },
         {
             "label": "Image bottom",
             "thumbnail": "images/hero-bottom.jpg",
+            "colors": "colors-f",
             "data": {
                 "variant": "variant-d",
                 "badge": ""

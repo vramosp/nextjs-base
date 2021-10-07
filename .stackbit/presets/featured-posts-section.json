@@ -19,23 +19,6 @@
                 "colors": "colors-a"
             }
         },
-        {
-            "label": "3 columns dark",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "variant": "variant-c",
-                "badge": "",
-                "colors": "colors-c"
-            }
-        },
-        {
-            "label": "2 columns dark",
-            "thumbnail": "images/placeholder.png",
-            "data": {
-                "variant": "variant-d",
-                "badge": "",
-                "colors": "colors-c"
-            }
-        }
+        
     ]
 }

@@ -4,7 +4,10 @@
             "label": "About",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "title": "About"
+                "title": "About",
+                "sections":{
+                    
+                }
             }
         },
         {

@@ -2,7 +2,7 @@
     "model": "HeroSection",
     "presets": [{
             "label": "Image right",
-            "thumbnail": "images/placeholder.png",
+            "thumbnail": "images/hero-right.jpg",
             "data": {
                 "variant": "variant-a",
             }

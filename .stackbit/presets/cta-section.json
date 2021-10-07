@@ -17,14 +17,6 @@
                 "colors": "colors-c",
                 "badge": ""
             }
-        },
-        {
-            "label": "With label",
-            "thumbnail": "images/cta-beta.jpg",
-            "data": {
-                "variant": "variant-b",
-                "colors": "colors-c"
-            }
         }
     ]
 }

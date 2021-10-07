@@ -25,7 +25,7 @@
         },
         {
             "label": "Image bottom",
-            "thumbnail": "images/hero-bottom.jpg",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-d",
                 "badge": ""

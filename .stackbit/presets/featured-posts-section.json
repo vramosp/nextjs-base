@@ -2,7 +2,7 @@
     "model": "FeaturedPostsSection",
     "presets": [{
             "label": "Image right",
-            "thumbnail": "images/hero-right.jpg",
+            "thumbnail": "images/placeholder.png",
             "data": {
                 "variant": "variant-a"
             }

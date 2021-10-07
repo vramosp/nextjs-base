@@ -33,6 +33,19 @@
                     "url": "https://www.stackbit.com"
                 }]
             }
+        },
+        {
+            "label": "Image top",
+            "thumbnail": "images/placeholder.png",
+            "data": {
+                "variant": "variant-c",
+                "title": "Another Title!",
+                "text": "Hello",
+                "actions": [{
+                    "label": "hey",
+                    "url": "https://www.stackbit.com"
+                }]
+            }
         }
     ]
 }

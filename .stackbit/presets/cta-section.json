@@ -2,7 +2,7 @@
     "model": "CtaSection",
     "presets": [{
             "label": "Button bottom",
-            "thumbnail": "images/hero-right.jpg",
+            "thumbnail": "images/cta-bottom.jpg",
             "data": {
                 "variant": "variant-a",
                 "colors": "colors-f",

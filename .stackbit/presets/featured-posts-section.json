@@ -23,7 +23,7 @@
             "label": "3 columns dark",
             "thumbnail": "images/placeholder.png",
             "data": {
-                "variant": "variant-c",
+                "variant": "variant-b",
                 "badge": "",
                 "colors": "colors-c"
             }
